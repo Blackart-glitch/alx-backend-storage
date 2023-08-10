@@ -8,6 +8,7 @@
 This README provides an overview of MySQL usage and design principles for creating robust and efficient databases. It covers essential concepts, best practices, and references to help you build reliable database systems.
 
 ##Resources
+
 ###Read or watch:
 
 1. [MySQL cheatsheet](https://intranet.alxswe.com/rltoken/8w9di_hk19DIMSBEV3EayQ)
